@@ -18,7 +18,7 @@ This project creates a **Medical Question Answering (QA) system** using **IBM Wa
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/medical_qa_streamlit.git
+    git clone https://github.com/your-username/devika-AI-Powered-Medical-QA.git
     ```
 
 2. Install dependencies:
